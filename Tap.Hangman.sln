@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap.Hangman.App", "Tap.Hangman.App\Tap.Hangman.App.csproj", "{C1BCE883-E327-4F98-8F88-6DD800F8DA8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1BCE883-E327-4F98-8F88-6DD800F8DA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BCE883-E327-4F98-8F88-6DD800F8DA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BCE883-E327-4F98-8F88-6DD800F8DA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BCE883-E327-4F98-8F88-6DD800F8DA8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {796E79F8-C4FF-4F2C-846C-99CB9A36B00A}
+	EndGlobalSection
+EndGlobal
